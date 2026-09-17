@@ -1,4 +1,4 @@
-# Evaluation script for tag-manager
+# Evaluation script for media-organizer
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic
